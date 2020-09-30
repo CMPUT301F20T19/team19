@@ -1,6 +1,6 @@
 package com.example.team19;
 
-public class triangle extends Shape {
+public class Triangle extends Shape {
     private int base;
     private int height;
 }
