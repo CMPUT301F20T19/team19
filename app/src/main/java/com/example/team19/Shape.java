@@ -4,5 +4,5 @@ abstract class Shape {
     int x;
     int y;
 
-    protected String color = "black";
+    String color = "black";
 }
